@@ -1,7 +1,7 @@
 {
-  "name": "scraper",
+  "name": "moola",
   "version": "1.0.0",
-  "description": "scrape emails from site",
+  "description": "send an email when a product is at an desired price",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
