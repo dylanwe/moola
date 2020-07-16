@@ -12,6 +12,7 @@
     "cheerio": "^1.0.0-rc.3",
     "dotenv": "^8.2.0",
     "node-fetch": "^2.6.0",
+    "nodemailer": "^6.4.10",
     "puppeteer": "^5.0.0",
     "request": "^2.88.2",
     "request-promise": "^4.2.5"
