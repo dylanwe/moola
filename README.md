@@ -17,4 +17,4 @@ I then compare each product price to the desired price to check if the price is 
 - [x] Node.js webscraping with: *request-promise* & *cheerio*
 - [x] Node.js emails with: *nodemailer*
 - [x] Sort of making an API with: *Sheetsu*
-- [x] Environment variables
+- [x] How to use environment variables
