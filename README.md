@@ -10,6 +10,7 @@ In my sheet I fill in a product name, desirend price and a link to the product.
   
 With Node I fetch the API and loop trough the rows and scrape every link to find it's price.  
 I then compare each product price to the desired price to check if the price is lower or equal, if that is true I add the product to my mail which will be send with nodemailer at the end of my foreach loop.
+![email](img/email.png "e-mail")
 ## What I learned
 - [x] Node.js webscraping with: *request-promise* & *cheerio*
 - [x] Node.js emails with: *nodemailer*
