@@ -9,8 +9,7 @@ I use [Sheetsu](https://sheetsu.com/) to turn my Google Sheet into an API that I
   
 ![sheet](img/sheet.jpg "google sheet")
   
-With Node, I fetch the API and loop through the rows and scrape every link to find it's price.  
-I then compare each product price to the desired price to check if the price is lower or equal, if that is true I add the product to my mail which will be sent with nodemailer at the end of my foreach loop. This whole process happens once a day on a server.
+With Node, I fetch the API and loop through the rows and scrape every link to find it's price. I then compare each product price to the desired price to check if the price is lower or equal, if that is true I add the product to my mail which will be sent with nodemailer at the end of my foreach loop. This whole process happens once a day on a server.
   
 ![email](img/email.png "e-mail")
   
