@@ -5,8 +5,7 @@ What I want to do is add a product to an excel sheet and set a price desired pri
 ## How I made it 👨‍💻
 Someone gave me the idea to get information out of an excel file. I chose to use Google Sheets because I can use it on every device where I log in so access is easy.
   
-I use [Sheetsu](https://sheetsu.com/) to turn my Google Sheet into an API that I can fetch with Node.js.  
-In my sheet, I fill in a product name, desired price, and a link to the product.
+I use [Sheetsu](https://sheetsu.com/) to turn my Google Sheet into an API that I can fetch with Node.js. In my sheet, I fill in a product name, desired price, and a link to the product.
   
 ![sheet](img/sheet.jpg "google sheet")
   
