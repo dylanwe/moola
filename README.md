@@ -13,11 +13,11 @@ With Node, I fetch the API and loop through the rows and scrape every link to fi
   
 ![email](img/email.png "e-mail")
   
+## 📌 What I would do diffrent
+If I could do something diffrent that I would try to build a propper front-end for the app, and connect it to a database like MongoDB so multiple people can use it.
+  
 ## 👨‍🏫 What I learned
 - [x] Node.js webscraping with: *request-promise* & *cheerio*
 - [x] Sending E-mails with: *nodemailer*
 - [x] Sort of making an API with: *Sheetsu*
 - [x] How to use environment variables  
-
-## 📌 What I would do diffrent
-If I could do something diffrent that I would try to build a propper front-end for the app, and connect it to a database like MongoDB so multiple people can use it.
