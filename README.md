@@ -19,5 +19,5 @@ With Node, I fetch the API and loop through the rows and scrape every link to fi
 - [x] Sort of making an API with: *Sheetsu*
 - [x] How to use environment variables  
   
-## 📌 What I would do diffrent
+## 📌 What I would do different
 If I could do something diffrent that I would try to build a propper front-end for the app, and connect it to a database like MongoDB so multiple people can use it.
